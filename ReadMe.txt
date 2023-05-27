@@ -25,3 +25,11 @@ AnimationにしたいSkinned Mesh RendererをInspector上で右クリックす�
 3. Write blend shape except vrc.* to Animation clip
 
 vrc.から始まるBlendShape以外を書き込む。
+
+# ライセンス
+
+MIT
+
+# リポジトリ
+
+https://github.com/4hiziri/Unity-Shape2Anim
